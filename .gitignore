@@ -1,0 +1,13 @@
+# Datos privados de clientes
+clientes.xlsx
+
+# PDFs con información confidencial
+archivos/
+
+# ChromeDriver local (si se descargó manualmente)
+chromedriver.exe
+
+# Python
+__pycache__/
+*.pyc
+.env
